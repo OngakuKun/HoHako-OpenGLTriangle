@@ -1,2 +1,2 @@
-# HoHako-HelloWorld
-**The Template for the Projects Contained inside the [HoHako](https://github.com/OngakuKun/HoHako) Collection**
+# HoHako-OpenGLTriangle
+**The OpenGLTriangle-Project for the [HoHako](https://github.com/OngakuKun/HoHako) Collection**
